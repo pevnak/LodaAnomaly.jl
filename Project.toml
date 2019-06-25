@@ -1,0 +1,4 @@
+name = "LodaAnomaly"
+uuid = "5db80cfc-8782-11e9-0d45-f37859658201"
+authors = ["pevnak <pevnak@gmail.com>"]
+version = "0.1.0"
